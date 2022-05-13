@@ -1,0 +1,64 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)
+// swift-module-flags: -target arm64-apple-ios15.4-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name PointcastSDK
+import CoreLocation
+import CoreMotion
+import Foundation
+@_exported import PointcastSDK
+import Swift
+import UIKit
+import _Concurrency
+public protocol PointcastDelegate {
+  func didChangeAuthorization(status: PointcastSDK.PointcastAuthorizationStatus)
+  func didGetCoordinates(latitude: Swift.Double, longitude: Swift.Double)
+  func didUpdateBearing(bearing: Swift.String)
+  func shakeDetected(detected: PointcastSDK.PointcastShakeDetected)
+}
+public enum PointcastShakeDetected : Swift.String {
+  case none
+  case flick
+  case sweep
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public enum PointcastAuthorizationStatus : Swift.Int32 {
+  case unknown
+  case portrait
+  case portraitUpsideDown
+  case landscapeLeft
+  case landscapeRight
+  case faceUp
+  case faceDown
+  public init?(rawValue: Swift.Int32)
+  public typealias RawValue = Swift.Int32
+  public var rawValue: Swift.Int32 {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers public class PointcastSDK : ObjectiveC.NSObject {
+  public static let shared: PointcastSDK.PointcastSDK
+  public var locationManager: CoreLocation.CLLocationManager
+  public var currentCoordinates: CoreLocation.CLLocationCoordinate2D?
+  public var delegate: PointcastSDK.PointcastDelegate?
+  public var isGetCurrentCoordinates: Swift.Bool
+  public var isLocationSaved: Swift.Bool
+  public var lastHeading: CoreLocation.CLHeading?
+  public var bearing: Swift.String
+  public func configure()
+  @objc override dynamic public init()
+  @objc deinit
+}
+extension PointcastSDK.PointcastSDK : CoreLocation.CLLocationManagerDelegate {
+  @objc dynamic public func locationManager(_ manager: CoreLocation.CLLocationManager, didChangeAuthorization status: CoreLocation.CLAuthorizationStatus)
+  @objc dynamic public func locationManager(_ manager: CoreLocation.CLLocationManager, didUpdateLocations locations: [CoreLocation.CLLocation])
+  @objc dynamic public func locationManager(_ manager: CoreLocation.CLLocationManager, didUpdateHeading newHeading: CoreLocation.CLHeading)
+}
+extension PointcastSDK.PointcastShakeDetected : Swift.Equatable {}
+extension PointcastSDK.PointcastShakeDetected : Swift.Hashable {}
+extension PointcastSDK.PointcastShakeDetected : Swift.RawRepresentable {}
+extension PointcastSDK.PointcastAuthorizationStatus : Swift.Equatable {}
+extension PointcastSDK.PointcastAuthorizationStatus : Swift.Hashable {}
+extension PointcastSDK.PointcastAuthorizationStatus : Swift.RawRepresentable {}

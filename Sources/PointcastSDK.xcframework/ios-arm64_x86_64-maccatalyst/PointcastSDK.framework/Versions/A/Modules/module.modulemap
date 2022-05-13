@@ -1,0 +1,11 @@
+framework module PointcastSDK {
+  umbrella header "PointcastSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module PointcastSDK.Swift {
+    header "PointcastSDK-Swift.h"
+    requires objc
+}
