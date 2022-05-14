@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/PointcastSDK-Swift.h</key>
 		<data>
-		8ZnrKog06SLujNSNeYUR4MZwwj8=
+		3kSZ6YSlL6WIvKeAOlt3GKEqutY=
 		</data>
 		<key>Headers/PointcastSDK.h</key>
 		<data>
@@ -14,19 +14,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		v0EjroBJBuauhSndFp9pt6+J9MU=
+		0BKeh211WWKymKT1ynMf9E/rQlQ=
 		</data>
 		<key>Modules/PointcastSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		aXYQZwLfLHwqm9s1hX9pEBHwS4w=
+		3RZ56EDhfLHSu/b4SjAjmOFbIiI=
 		</data>
 		<key>Modules/PointcastSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		OEuMIDtd/e+uN6p3fCYs8sl22ow=
+		yIGWB6OvtyhwYqXZMT218+Fsi+g=
 		</data>
 		<key>Modules/PointcastSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ITtFKz2NOG/935soyOQE04mDsUM=
+		nw+pAk83Fc9Q7iOaqVotyLEDMFU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -39,7 +39,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Isk93nQ9v1Jmtv7QsZHqP3jo3WLnjO4ZptBY94vcYKY=
+			C/Du/AY4fJS/RJ+DgPrXp92rp7uUp7peV9dMJ9tqPcY=
 			</data>
 		</dict>
 		<key>Headers/PointcastSDK.h</key>
@@ -53,21 +53,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DprSLyqcxITLHT1mPu0E4gIjAbjPxsuqlAufcC3Zay4=
+			5AgF6ptKRDZ5/cJeErg9/cnjKbCPr8ckaH/Nrvm5ZcM=
 			</data>
 		</dict>
 		<key>Modules/PointcastSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oKRwzckhY/gX7LU8wVyFwv+e9qyrJE9zvipKD/45mi4=
+			7j1eMmdK8qqRnYY0dl9PnQG9K3bI7B1ZYtBQ5YdHMjY=
 			</data>
 		</dict>
 		<key>Modules/PointcastSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GtBPApK7d1i5B9iHOQpQz9H5VnYa/xCIQ9lbWmTcn/A=
+			PCaCM5IFgt5y7yIFYQuKYwf8ra4VMqiYdmArbwhqDHs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

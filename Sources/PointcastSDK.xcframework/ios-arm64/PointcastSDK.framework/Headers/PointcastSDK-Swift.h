@@ -215,21 +215,16 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
-
-SWIFT_CLASS("_TtC12PointcastSDK12PointcastSDK")
-@interface PointcastSDK : NSObject
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
-
 @class CLLocationManager;
 @class CLLocation;
 @class CLHeading;
 
-@interface PointcastSDK (SWIFT_EXTENSION(PointcastSDK)) <CLLocationManagerDelegate>
+SWIFT_CLASS("_TtC12PointcastSDK12PointcastSDK")
+@interface PointcastSDK : NSObject <CLLocationManagerDelegate>
 - (void)locationManager:(CLLocationManager * _Nonnull)manager didChangeAuthorizationStatus:(CLAuthorizationStatus)status;
 - (void)locationManager:(CLLocationManager * _Nonnull)manager didUpdateLocations:(NSArray<CLLocation *> * _Nonnull)locations;
 - (void)locationManager:(CLLocationManager * _Nonnull)manager didUpdateHeading:(CLHeading * _Nonnull)newHeading;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 #if __has_attribute(external_source_symbol)

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/PointcastSDK-Swift.h</key>
 		<data>
-		nXOqPj3JN4XAaXfH7nVVzL5+fMU=
+		1dkHTZwZ+jg416GZT2UlWRBXeb8=
 		</data>
 		<key>Headers/PointcastSDK.h</key>
 		<data>
@@ -14,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4WXaLavsVGVAIZVFq3RGzwZf5dE=
+		tMOm6aV9deWdaYNR2OkAr6SEIH0=
 		</data>
 		<key>Modules/PointcastSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		QjuM9rRWdp7G3LrJAnho6s7uNK8=
+		f7/WtX6ya5+GrS0Uaf9Gh8kF4iY=
 		</data>
 		<key>Modules/PointcastSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		SSoxv1j+wOXHJU/yLZn07dmyPDY=
+		VMDauXSN846EkbVif2GyE2Rkhkc=
 		</data>
 		<key>Modules/PointcastSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		W9qrH928miD41Os4LyFgeu/E/44=
+		fjHTkG1jD43xRVE1lvOX6YwXXMQ=
 		</data>
 		<key>Modules/PointcastSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		EbLYvYZ3VWZcnHCXsdImbrSBzcE=
+		JKPmUzNUwx66YJ2IwaIDE1vHkds=
 		</data>
 		<key>Modules/PointcastSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		J0ZYxmI3CvFT+4EnCkyfp6NorDI=
+		zXeU8zk8Y7bORNUilpkxQ4ll184=
 		</data>
 		<key>Modules/PointcastSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		9kILqhxtrDvjZIyk5h5+nXJQQQk=
+		K1jfyyfX7dKEqKXrvMnHeuGXuJA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w88zhHGOLu00ykTR7RZIv1M1crKUu/8XduZeSYFKzm4=
+			/7bJko4tF2ykrzsWzXCnmu85dFLFM9nH865z2GXGapQ=
 			</data>
 		</dict>
 		<key>Headers/PointcastSDK.h</key>
@@ -65,42 +65,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tCQf7JH+r1ETbHkIDzzNW3vs8g1hZ+HEVHf7Zmu8kBE=
+			cI5RzsSUcCVRjXUAkqGMBoO8/uMvotHLNmmQMTq2pZM=
 			</data>
 		</dict>
 		<key>Modules/PointcastSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h8ki8cokxnWKsaPsKNvW9MdJ7hVQDN2lZGAt1XvcOIA=
+			kHuV5kcHWEdtDIbp2Ue6tRTHWduVT4n3wHu5DkXKbhI=
 			</data>
 		</dict>
 		<key>Modules/PointcastSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EsCq+MWRJLSlNt757cCTsBRdpQU9sJIkgi97YiuTeqw=
+			Trn1wdCIFkPKxEmVBWjb6zY/jEiTb9X1CCEEhC3UILM=
 			</data>
 		</dict>
 		<key>Modules/PointcastSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U8vbOM4OMIwmF8P8CvsyvwI1gFtNiHU8hWO6GwQMJHo=
+			x/QC674fHD+8mCiGxXZ6IE+Jyb1/l9Dr41gwA1TRMBg=
 			</data>
 		</dict>
 		<key>Modules/PointcastSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7g7Vlvikmj9SMgB/aVnw8Le3JxyRrpOsjb3IHizWZE0=
+			PNPqXeCajRMQH0yDEXm2eVdHtX2yuwMAQbHwkVBVuzo=
 			</data>
 		</dict>
 		<key>Modules/PointcastSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9ynsp8jbHBU1MwRaAAXthDi4nCrrFuaa6reC7zLDRpk=
+			aJMbQ9j3UhP6VzNwEgoxIxPWPSEa33TJKYAwB7d2nXA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

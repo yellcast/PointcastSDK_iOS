@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		sNXyFt+tKtd91sOyhX2ZJIhqlSg=
+		06TFW7ylw0z8DcxGtBddiwgqv3I=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -15,7 +15,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w88zhHGOLu00ykTR7RZIv1M1crKUu/8XduZeSYFKzm4=
+			/7bJko4tF2ykrzsWzXCnmu85dFLFM9nH865z2GXGapQ=
 			</data>
 		</dict>
 		<key>Headers/PointcastSDK.h</key>
@@ -29,42 +29,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ld9hxGgVFK8z0CLQrZNjrUGh24EuX90/BigYdYx9dCU=
+			x67h0ht3WP9FwR9KVbs1OmpZTA/gkRWwFxKZz5tepus=
 			</data>
 		</dict>
 		<key>Modules/PointcastSDK.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BGdlaOUwxFrcBA/XVb+oYm3O7bkPDZvs/g6TH9/RFqE=
+			R6W7jbjFIHbtoDq5kVFH8wUdwW286rendF2M/jtx8Mg=
 			</data>
 		</dict>
 		<key>Modules/PointcastSDK.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yae2TC5y3vhTT+am531kcwgXpx77U8sRAE+5zVL0zZs=
+			FdpUgGYs8hQkD8eski1FBoAczO3vU+zUQyzJs3hrg6M=
 			</data>
 		</dict>
 		<key>Modules/PointcastSDK.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oRd4sU3kdUkyyJR8zXqBGY4XpjKnxGXcXnuH9xQocXg=
+			XCjJFHO791OF6fvbrHFiwAHD/fVTK1vJDXLKkrTZ5XQ=
 			</data>
 		</dict>
 		<key>Modules/PointcastSDK.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kFmVLjMmjNp74VCrMBPLW1b0wnrnqvNhyCD5sUAX6Ak=
+			CrLVDSKd//gFeo6e6jloZysoP5bgZ58BPJeZjUyH0sQ=
 			</data>
 		</dict>
 		<key>Modules/PointcastSDK.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/TCqTvTSu4YDgVUsgw5fLwBPAJySTQPcy71S4Hp/Oiw=
+			IlFzAxVqqemMcgDm3BrhYisyZoNbwH1pRjf2d5XJ9v4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -78,7 +78,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tx0PeuTkwUMKyN3Q41R/iCp7JHZGXR2etxFPvsiK3W0=
+			j18MEgrY0n8T48RbjZBoWpD2qjQF3lSR71Z15Rh5/9w=
 			</data>
 		</dict>
 	</dict>
